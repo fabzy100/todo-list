@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 80%;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 16px;
+}
+
+button:focus {
+  outline: none;
+}
+
+div {
+  margin: 15px;
+}
+
+h4 {
+  color: #333;
+}
